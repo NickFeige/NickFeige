@@ -14,25 +14,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-```typescript
-const nickFeige = {
-  role:              "Junior Full-Stack Developer",
-  location:          "Oranmore, Co. Galway, Ireland 🇮🇪",
-  spokenLanguages:   ["English 🇬🇧", "Hungarian 🇭🇺"],
-  currentlyBuilding: [
-    "Crisp (NZ) 🇳🇿 — Flutter + Firebase E-Commerce Platform",
-    "Coffee at Dawn ☕ — React Native Business Website"
-  ],
-  education:         "B.Sc. Software Development @ ATU Galway",
-  aiTools:           ["GitHub Copilot", "Claude AI", "Cursor"],
-  passions:          ["Web Dev", "Game Dev", "Cross-platform Apps"],
-  funFact:           "I've shipped code across multiple countries 🌍"
-};
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -161,7 +142,7 @@ Beyond web development, I enjoy building games with **Unity** and **C#**. Game d
 <div align="center">
 
 [![Email](https://img.shields.io/badge/nfeige7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfeige7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/nick--feige-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-feige)
+[![LinkedIn](https://img.shields.io/badge/nick--feige-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-feige-5a7839200)
 [![GitHub](https://img.shields.io/badge/NickFeige-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickFeige)
 
 </div>
