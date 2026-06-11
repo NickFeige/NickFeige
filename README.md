@@ -66,7 +66,7 @@ Beyond web development, I enjoy building games with **Unity** and **C#**. Game d
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔫 [Shooter Game](https://github.com/NickFeige/shooterGame) | 3D shooter with player movement, shooting mechanics & enemy AI | Unity · C# |
+| 🔫 [Shooter Game](https://github.com/NickFeige/shooterGame) | 2D shooter with player movement, shooting mechanics & enemy AI | Unity · C# |
 
 **Areas explored:**
 - 🕹️ Player controller & input systems
